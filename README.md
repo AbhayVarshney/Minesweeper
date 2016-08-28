@@ -1,7 +1,7 @@
 Minesweeper
 ===========
 By Abhay Varshney
-A game written in Java usig Swing graphics.
+A game written in Java using Swing graphics.
 
 ## Description
 
